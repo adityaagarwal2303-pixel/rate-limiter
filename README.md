@@ -26,7 +26,7 @@ A production-ready **Rate Limiter** built with **Spring Boot** and **Redis** tha
 
 | Technology | Purpose |
 |------------|---------|
-| Java 21 | Programming Language |
+| Java 25 | Programming Language |
 | Spring Boot | Backend Framework |
 | Redis | Request Counter Storage |
 | Maven | Dependency Management |
